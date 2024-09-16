@@ -7,6 +7,7 @@ These are resources that I have found useful but I'm great at forgetting where I
 - [curl](https://curl.se/) - creating and testing HTTP requests
 - [jq](https://jqlang.github.io/jq/) - processing JSON data
 - [gitignore.io](https://www.toptal.com/developers/gitignore) - generate `.gitignore` files
+- [shots.so](https://shots.so/) - simple and fast way to create mockups
 
 ## Standards
 
