@@ -25,7 +25,14 @@ These are resources that I have found useful but I'm great at forgetting where I
 - [blog.boot.dev](https://blog.boot.dev/)
 - [netflix techblog](https://netflixtechblog.medium.com/)
 
-## Resources (often paid)
+## Resources
+
+### Free
+
+- [course-go](https://github.com/course-go) - open source golang course from [FI MUNI](https://www.fi.muni.cz/)
+- [algorithms](https://frontendmasters.com/courses/algorithms/introduction/) - great free algorithms course from [Frontend Masters](https://frontendmasters.com/)
+
+### Paid
 
 - [boot.dev](https://boot.dev/) - backend stuff (also devops)
 - [frontend masters](https://frontendmasters.com/) - frontend stuff (mostly)
