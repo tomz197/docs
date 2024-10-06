@@ -8,6 +8,7 @@ These are resources that I have found useful but I'm great at forgetting where I
 - [jq](https://jqlang.github.io/jq/) - processing JSON data
 - [gitignore.io](https://www.toptal.com/developers/gitignore) - generate `.gitignore` files
 - [shots.so](https://shots.so/) - simple and fast way to create mockups
+- [goAccess](https://goaccess.io/) - open-source real time web log analyzer with terminal and web UI
 
 ## Standards
 
