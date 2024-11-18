@@ -16,6 +16,7 @@ These are resources that I have found useful but I'm great at forgetting where I
 - [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) - no one knows what to write in a commit message
 - [semantic versioning](https://semver.org/) - common sence versioning
 - [keep a changelog](https://keepachangelog.com/en/1.0.0/) - good to have a changelog
+- [jsend](https://github.com/omniti-labs/jsend) - simple JSON format convention
 
 ## Articles / Blog posts
 
