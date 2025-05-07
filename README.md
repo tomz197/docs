@@ -10,6 +10,7 @@ These are resources that I have found useful but I'm great at forgetting where I
 - [shots.so](https://shots.so/) - simple and fast way to create mockups
 - [goAccess](https://goaccess.io/) - open-source real time web log analyzer with terminal and web UI
 - [ffmpeg](https://www.ffmpeg.org/) - builde of libraries for video and audio handling
+- [svg to favicon](https://realfavicongenerator.net/) - simple conversion of svg logo to all needed favicon formats
 
 ## Standards
 
